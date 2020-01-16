@@ -1,5 +1,7 @@
+//Andrew Persson
 //Colaborators: Maddy Burke
 //Made 1/16/2020
+//Purpose: To display my name and major
 
 #include <stdio.h>  //Initializes code
 
