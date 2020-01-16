@@ -7,5 +7,9 @@ int main(void) {
     //Prints my name and my major
 	printf("Andrew Persson\n");
     printf("My major is Mechanical engineering!\n");
+
+printf("Maddy Burke\n");
+printf("My major is Math!!\n");
+	//Prints my name and my major
 	return 0;
 }
